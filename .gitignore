@@ -1,0 +1,5 @@
+# timelog file & directory
+logs/
+
+# excel file
+*.xlsx
